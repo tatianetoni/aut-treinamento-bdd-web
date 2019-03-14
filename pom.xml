@@ -3,4 +3,15 @@
   <groupId>br.com.treinamento</groupId>
   <artifactId>aut-treinamento-bdd-web</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+  <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-java -->
+<dependency>
+    <groupId>info.cukes</groupId>
+    <artifactId>cucumber-java</artifactId>
+    <version>1.2.5</version>
+</dependency>
+  
+  </dependencies>
+  
 </project>
